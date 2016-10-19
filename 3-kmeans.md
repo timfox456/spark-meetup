@@ -14,7 +14,7 @@ with experience in R should remember this as one of R's internal datasets.
 
 This dataset contains some statistics on 1974 Cars from Motor Trends
 
-<img src="../../images/6.1-cars2.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/6.1-cars2.png" style="border: 5px solid grey; max-width:100%;" />
 
 You can also download and view the raw data in Excel : [cars.csv](../../data/mtcars/mtcars.csv)
 

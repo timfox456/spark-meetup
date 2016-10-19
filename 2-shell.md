@@ -68,7 +68,7 @@ In browser go to :   http://your_machine_address:4040
 
 Here is a sample screen shot:
 
-<img src="../images/2a.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="./images/2a.png" style="border: 5px solid grey ; max-width:100%;" />
 
 **==> Explore stage, storage, environment and executor tabs**
 
@@ -149,12 +149,12 @@ hint : `f.count()`
 **==> Inspect the 'Jobs' section in Shell UI (in browser)**  
 Also inspect the event time line
 
-<img src="../images/2b.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/2b.png" style="border: 5px solid grey; max-width:100%;" />
 
 
 **==> Inspect the 'Executor' section in Shell UI (in browser)**
 
-<img src="../images/2c.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/2c.png" style="border: 5px solid grey; max-width:100%;" />
 
 **==> Quit spark-shell session `Control + D`**
 

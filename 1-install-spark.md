@@ -76,7 +76,7 @@ STEP 4: Exploring Spark UI
 --------------------------
 You will see a similar screen shot like this
 
-<img src="../images/1a.png" style="border: 5px solid grey ; max-width:100%;" /> 
+<img src="./images/1a.png" style="border: 5px solid grey ; max-width:100%;" /> 
 
 To explore:
 * Is Master and Worker running on the same node?
