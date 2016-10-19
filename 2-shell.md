@@ -187,7 +187,7 @@ In browser go to :   http://your_machine_address:8080
 
 Here is a sample screen shot:
 
-<img src="../images/2d.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/2d.png" style="border: 5px solid grey; max-width:100%;" />
 
 ### 5.2 Now start spark shell
 
@@ -227,11 +227,11 @@ On the ES VM you may have to use the localhost.localdomain. In all cases, follow
 
 #### spark server UI at port 8080
 
-<img src="../images/2e.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/2e.png" style="border: 5px solid grey; max-width:100%;" />
 ---
 #### spark shell UI at  port 4040
 
-<img src="../images/2f.png" style="border: 5px solid grey; max-width:100%;" />
+<img src="./images/2f.png" style="border: 5px solid grey; max-width:100%;" />
 
 
 ----------------------------------------
